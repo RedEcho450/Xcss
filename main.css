@@ -1,0 +1,540 @@
+* {
+	margin: 0.15em;
+}
+.heading-h-l {
+	font-size: 3.5em;
+	font-family: verdana;
+	font-weight: 700;
+	margin-left: 1em;
+}
+.heading-h-c {
+	font-size: 3.5em;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	font-family: verdana;
+	font-weight: 700;
+}
+.heading-h-r {
+	font-size: 3.5em;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	font-family: verdana;
+	font-weight: 700;
+	margin-right: 1em;
+}
+.heading-h-l-1 {
+	font-size: 3.5em;
+	font-family: verdana;
+	font-weight: 700;
+	margin-left: 1em;
+	color: green;
+}
+.heading-h-l-2 {
+	font-size: 3.5em;
+	font-family: verdana;
+	font-weight: 700;
+	margin-left: 1em;
+	color: blue;
+}
+.heading-h-l-3 {
+	font-size: 3.5em;
+	font-family: verdana;
+	font-weight: 700;
+	margin-left: 1em;
+	color: yellow;
+}
+.heading-h-l-4 {
+	font-size: 3.5em;
+	font-family: verdana;
+	font-weight: 700;
+	margin-left: 1em;
+	color: red;
+}
+.heading-h-l-5 {
+	font-size: 3.5em;
+	font-family: verdana;
+	font-weight: 700;
+	margin-left: 1em;
+	color: white;
+}
+.heading-h-l-6 {
+	font-size: 3.5em;
+	font-family: verdana;
+	font-weight: 700;
+	margin-left: 1em;
+	color: black;
+}
+.heading-h-c-1 {
+	font-size: 3.5em;
+	font-family: verdana;
+	font-weight: 700;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	color: green;
+}
+.heading-h-c-2 {
+	font-size: 3.5em;
+	font-family: verdana;
+	font-weight: 700;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	color: blue;
+}
+.heading-h-c-3 {
+	font-size: 3.5em;
+	font-family: verdana;
+	font-weight: 700;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	color: yellow;
+}
+.heading-h-c-4 {
+	font-size: 3.5em;
+	font-family: verdana;
+	font-weight: 700;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	color: red;
+}
+.heading-h-c-5 {
+	font-size: 3.5em;
+	font-family: verdana;
+	font-weight: 700;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	color: white;
+}
+.heading-h-c-6 {
+	font-size: 3.5em;
+	font-family: verdana;
+	font-weight: 700;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	color: black;
+}
+.heading-h-r-1 {
+	font-size: 3.5em;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	font-family: verdana;
+	font-weight: 700;
+	margin-right: 1em;
+	color: green;
+}
+.heading-h-r-2 {
+	font-size: 3.5em;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	font-family: verdana;
+	font-weight: 700;
+	margin-right: 1em;
+	color: blue;
+}
+.heading-h-r-3 {
+	font-size: 3.5em;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	font-family: verdana;
+	font-weight: 700;
+	margin-right: 1em;
+	color: yellow;
+}
+.heading-h-r-4 {
+	font-size: 3.5em;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	font-family: verdana;
+	font-weight: 700;
+	margin-right: 1em;
+	color: red;
+}
+.heading-h-r-5 {
+	font-size: 3.5em;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	font-family: verdana;
+	font-weight: 700;
+	margin-right: 1em;
+	color: white;
+}
+.heading-h-r-6 {
+	font-size: 3.5em;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	font-family: verdana;
+	font-weight: 700;
+	margin-right: 1em;
+	color: black;
+}
+.heading-m-l {
+	font-size: 2.5em;
+	font-family: verdana;
+	font-weight: 700;
+	margin-left: 1em;
+}
+.heading-m-c {
+	font-size: 2.5em;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	font-family: verdana;
+	font-weight: 700;
+}
+.heading-m-r {
+	font-size: 2.5em;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	font-family: verdana;
+	font-weight: 700;
+	margin-right: 1em;
+}
+.heading-m-l-1 {
+	font-size: 2.5em;
+	font-family: verdana;
+	font-weight: 700;
+	margin-left: 1em;
+	color: green;
+}
+.heading-m-l-2 {
+	font-size: 2.5em;
+	font-family: verdana;
+	font-weight: 700;
+	margin-left: 1em;
+	color: blue;
+}
+.heading-m-l-3 {
+	font-size: 2.5em;
+	font-family: verdana;
+	font-weight: 700;
+	margin-left: 1em;
+	color: yellow;
+}
+.heading-m-l-4 {
+	font-size: 2.5em;
+	font-family: verdana;
+	font-weight: 700;
+	margin-left: 1em;
+	color: red;
+}
+.heading-m-l-5 {
+	font-size: 2.5em;
+	font-family: verdana;
+	font-weight: 700;
+	margin-left: 1em;
+	color: white;
+}
+.heading-m-l-6 {
+	font-size: 2.5em;
+	font-family: verdana;
+	font-weight: 700;
+	margin-left: 1em;
+	color: black;
+}
+.heading-m-c-1 {
+	font-size: 2.5em;
+	font-family: verdana;
+	font-weight: 700;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	color: green;
+}
+.heading-m-c-2 {
+	font-size: 2.5em;
+	font-family: verdana;
+	font-weight: 700;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	color: blue;
+}
+.heading-m-c-3 {
+	font-size: 2.5em;
+	font-family: verdana;
+	font-weight: 700;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	color: yellow;
+}
+.heading-m-c-4 {
+	font-size: 2.5em;
+	font-family: verdana;
+	font-weight: 700;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	color: red;
+}
+.heading-m-c-5 {
+	font-size: 2.5em;
+	font-family: verdana;
+	font-weight: 700;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	color: white;
+}
+.heading-m-c-6 {
+	font-size: 2.5em;
+	font-family: verdana;
+	font-weight: 700;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	color: black;
+}
+.heading-m-r-1 {
+	font-size: 2.5em;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	font-family: verdana;
+	font-weight: 700;
+	margin-right: 1em;
+	color: green;
+}
+.heading-m-r-2 {
+	font-size: 2.5em;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	font-family: verdana;
+	font-weight: 700;
+	margin-right: 1em;
+	color: blue;
+}
+.heading-m-r-3 {
+	font-size: 2.5em;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	font-family: verdana;
+	font-weight: 700;
+	margin-right: 1em;
+	color: yellow;
+}
+.heading-m-r-4 {
+	font-size: 2.5em;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	font-family: verdana;
+	font-weight: 700;
+	margin-right: 1em;
+	color: red;
+}
+.heading-m-r-5 {
+	font-size: 2.5em;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	font-family: verdana;
+	font-weight: 700;
+	margin-right: 1em;
+	color: white;
+}
+.heading-m-r-6 {
+	font-size: 2.5em;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	font-family: verdana;
+	font-weight: 700;
+	margin-right: 1em;
+	color: black;
+}
+.heading-s-l {
+	font-size: 1.5em;
+	font-family: verdana;
+	font-weight: 700;
+	margin-left: 1em;
+}
+.heading-s-c {
+	font-size: 1.5em;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	font-family: verdana;
+	font-weight: 700;
+}
+.heading-s-r {
+	font-size: 1.5em;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	font-family: verdana;
+	font-weight: 700;
+	margin-right: 1em;
+}
+.heading-s-l-1 {
+	font-size: 1.5em;
+	font-family: verdana;
+	font-weight: 700;
+	margin-left: 1em;
+	color: green;
+}
+.heading-s-l-2 {
+	font-size: 1.5em;
+	font-family: verdana;
+	font-weight: 700;
+	margin-left: 1em;
+	color: blue;
+}
+.heading-s-l-3 {
+	font-size: 1.5em;
+	font-family: verdana;
+	font-weight: 700;
+	margin-left: 1em;
+	color: yellow;
+}
+.heading-s-l-4 {
+	font-size: 1.5em;
+	font-family: verdana;
+	font-weight: 700;
+	margin-left: 1em;
+	color: red;
+}
+.heading-s-l-5 {
+	font-size: 1.5em;
+	font-family: verdana;
+	font-weight: 700;
+	margin-left: 1em;
+	color: white;
+}
+.heading-s-l-6 {
+	font-size: 1.5em;
+	font-family: verdana;
+	font-weight: 700;
+	margin-left: 1em;
+	color: black;
+}
+.heading-s-c-1 {
+	font-size: 1.5em;
+	font-family: verdana;
+	font-weight: 700;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	color: green;
+}
+.heading-s-c-2 {
+	font-size: 1.5em;
+	font-family: verdana;
+	font-weight: 700;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	color: blue;
+}
+.heading-s-c-3 {
+	font-size: 1.5em;
+	font-family: verdana;
+	font-weight: 700;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	color: yellow;
+}
+.heading-s-c-4 {
+	font-size: 1.5em;
+	font-family: verdana;
+	font-weight: 700;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	color: red;
+}
+.heading-s-c-5 {
+	font-size: 1.5em;
+	font-family: verdana;
+	font-weight: 700;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	color: white;
+}
+.heading-s-c-6 {
+	font-size: 1.5em;
+	font-family: verdana;
+	font-weight: 700;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	color: black;
+}
+.heading-s-r-1 {
+	font-size: 1.5em;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	font-family: verdana;
+	font-weight: 700;
+	margin-right: 1em;
+	color: green;
+}
+.heading-s-r-2 {
+	font-size: 1.5em;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	font-family: verdana;
+	font-weight: 700;
+	margin-right: 1em;
+	color: blue;
+}
+.heading-s-r-3 {
+	font-size: 1.5em;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	font-family: verdana;
+	font-weight: 700;
+	margin-right: 1em;
+	color: yellow;
+}
+.heading-s-r-4 {
+	font-size: 1.5em;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	font-family: verdana;
+	font-weight: 700;
+	margin-right: 1em;
+	color: red;
+}
+.heading-s-r-5 {
+	font-size: 1.5em;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	font-family: verdana;
+	font-weight: 700;
+	margin-right: 1em;
+	color: white;
+}
+.heading-s-r-6 {
+	font-size: 1.5em;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	font-family: verdana;
+	font-weight: 700;
+	margin-right: 1em;
+	color: black;
+}
