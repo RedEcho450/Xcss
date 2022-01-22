@@ -476,26 +476,26 @@
 	color: black;
 }
 .para-h-l{
-    font-size: 1em;
+    font-size: 1.2em;
     font-weight: 400;
     margin-left: 1em;
 }
 .para-h-c{
-    font-size: 1em;
+    font-size: 1.2em;
     font-weight: 400;
     display: flex;
     flex-direction: row;
     justify-content: center;
 }
 .para-h-r{
-    font-size: 1em;
+    font-size: 1.2em;
     font-weight: 400;
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
 }
 .para-h-l-1 {
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: 400;
 	margin-left: 1em;
 	color: green;
@@ -507,31 +507,31 @@
 	color: blue;
 }
 .para-h-l-3 {
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: 400;
 	margin-left: 1em;
 	color: yellow;
 }
 .para-h-l-4 {
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: 400;
 	margin-left: 1em;
 	color: red;
 }
 .para-h-l-5 {
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: 400;
 	margin-left: 1em;
 	color: white;
 }
 .para-h-l-6 {
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: 400;
 	margin-left: 1em;
 	color: black;
 }
 .para-h-c-1 {
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: 400;
 	margin-left: 1em;
     display: flex;
@@ -540,7 +540,7 @@
 	color: green;
 }
 .para-h-c-2 {
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: 400;
 	margin-left: 1em;
     display: flex;
@@ -549,7 +549,7 @@
 	color: blue;
 }
 .para-h-c-3 {
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: 400;
 	margin-left: 1em;
     display: flex;
@@ -558,7 +558,7 @@
 	color: yellow;
 }
 .para-h-c-4 {
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: 400;
 	margin-left: 1em;
     display: flex;
@@ -567,7 +567,7 @@
 	color: red;
 }
 .para-h-c-5 {
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: 400;
 	margin-left: 1em;
     display: flex;
@@ -576,7 +576,7 @@
 	color: white;
 }
 .para-h-c-6 {
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: 400;
 	margin-left: 1em;
     display: flex;
@@ -585,7 +585,7 @@
 	color: black;
 }
 .para-h-r-1 {
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: 400;
 	margin-left: 1em;
     display: flex;
@@ -594,7 +594,7 @@
 	color: green;
 }
 .para-h-r-2 {
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: 400;
 	margin-left: 1em;
     display: flex;
@@ -603,7 +603,7 @@
 	color: blue;
 }
 .para-h-r-3 {
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: 400;
 	margin-left: 1em;
     display: flex;
@@ -612,7 +612,7 @@
 	color: yellow;
 }
 .para-h-r-4 {
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: 400;
 	margin-left: 1em;
     display: flex;
@@ -621,7 +621,7 @@
 	color: red;
 }
 .para-h-r-5 {
-	font-size: 1em;
+	font-size: 1.2em;
 	font-weight: 400;
 	margin-left: 1em;
     display: flex;
@@ -630,7 +630,170 @@
 	color: white;
 }
 .para-h-r-6 {
-	font-size: 1em;
+	font-size: 1.2em;
+	font-weight: 400;
+	margin-left: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+	color: black;
+}
+.para-m-l{
+    font-size: .75em;
+    font-weight: 400;
+    margin-left: 1em;
+}
+.para-m-c{
+    font-size: .75em;
+    font-weight: 400;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.para-m-r{
+    font-size: .75em;
+    font-weight: 400;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.para-m-l-1 {
+	font-size: .75em;
+	font-weight: 400;
+	margin-left: 1em;
+	color: green;
+}
+.para-m-l-2 {
+	font-size: .75em;
+	font-weight: 400;
+	margin-left: 1em;
+	color: blue;
+}
+.para-m-l-3 {
+	font-size: .75em;
+	font-weight: 400;
+	margin-left: 1em;
+	color: yellow;
+}
+.para-m-l-4 {
+	font-size: .75em;
+	font-weight: 400;
+	margin-left: 1em;
+	color: red;
+}
+.para-m-l-5 {
+	font-size: .75em;
+	font-weight: 400;
+	margin-left: 1em;
+	color: white;
+}
+.para-m-l-6 {
+	font-size: .75em;
+	font-weight: 400;
+	margin-left: 1em;
+	color: black;
+}
+.para-m-c-1 {
+	font-size: .75em;
+	font-weight: 400;
+	margin-left: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+	color: green;
+}
+.para-m-c-2 {
+	font-size: .75em;
+	font-weight: 400;
+	margin-left: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+	color: blue;
+}
+.para-m-c-3 {
+	font-size: .75em;
+	font-weight: 400;
+	margin-left: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+	color: yellow;
+}
+.para-m-c-4 {
+	font-size: .75em;
+	font-weight: 400;
+	margin-left: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+	color: red;
+}
+.para-m-c-5 {
+	font-size: .75em;
+	font-weight: 400;
+	margin-left: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+	color: white;
+}
+.para-m-c-6 {
+	font-size: .75em;
+	font-weight: 400;
+	margin-left: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+	color: black;
+}
+.para-m-r-1 {
+	font-size: .75em;
+	font-weight: 400;
+	margin-left: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+	color: green;
+}
+.para-m-r-2 {
+	font-size: 0.75em;
+	font-weight: 400;
+	margin-left: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+	color: blue;
+}
+.para-m-r-3 {
+	font-size: .75em;
+	font-weight: 400;
+	margin-left: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+	color: yellow;
+}
+.para-m-r-4 {
+	font-size: .75em;
+	font-weight: 400;
+	margin-left: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+	color: red;
+}
+.para-m-r-5 {
+	font-size: .75em;
+	font-weight: 400;
+	margin-left: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+	color: white;
+}
+.para-m-r-6 {
+	font-size: .75em;
 	font-weight: 400;
 	margin-left: 1em;
     display: flex;
